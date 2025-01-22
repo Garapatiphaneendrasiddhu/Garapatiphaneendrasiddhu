@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif​")
+(img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub")
 
 # 💫 About Me:
 🎓I am currently studying at Lovely Professional University<br>👋 Hi, I’m Siddhu Garapati<br>👀 I’m currently leaverging my skills🐣<br>👀 I’m interested in Data Science!<br>🌱 I’m currently Exploring new technologies and learning ⚡<br>💬 Connect with me siddhugarapati108@gmail.com💡<br>
