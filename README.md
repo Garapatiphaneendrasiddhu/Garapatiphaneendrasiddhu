@@ -1,4 +1,5 @@
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif")
+![Alt text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 # 💫 About Me:
 🎓I am currently studying at Lovely Professional University<br>👋 Hi, I’m Siddhu Garapati<br>👀 I’m currently leaverging my skills🐣<br>👀 I’m interested in Data Science!<br>🌱 I’m currently Exploring new technologies and learning ⚡<br>💬 Connect with me siddhugarapati108@gmail.com💡<br>
