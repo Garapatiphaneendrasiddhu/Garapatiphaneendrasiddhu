@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🎓I am currently studying at Lovely Professional University<br>👋 Hi, I’m Siddhu Garapati<br>👀 I’m currently leaverging my skills🐣<br>👀 I’m interested in Data Science!<br>🌱 I’m currently Exploring new technologies and learning ⚡<br>💬 Connect with me siddhugarapati108@gmail.com💡<br>
+🎓I am currently studying at Lovely Professional    University<br>👋 Hi, I’m Siddhu Garapati<br>👀 I’m currently leaverging my skills🐣<br>👀 I’m interested in Data Science!<br>🌱 I’m currently Exploring new technologies and learning <br>💬 Connect with me siddhugarapati108@gmail.com💡<br>
 
 
 ## 🌐 Socials:
