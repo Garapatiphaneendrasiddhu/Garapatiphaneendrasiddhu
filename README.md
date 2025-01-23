@@ -1,12 +1,14 @@
-
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
-
-
-
-
 # 💫 About Me:
-🎓I am currently studying at Lovely Professional    University<br>👋 Hi, I’m Siddhu Garapati<br>👀 I’m currently leaverging my skills🐣<br>👀 I’m interested in Data Science!<br>🌱 I’m currently Exploring new technologies and learning <br>💬 Connect with me siddhugarapati108@gmail.com💡<br>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
+
+👋 Hi, I’m Siddhu Garapati<br>
+🎓 I am currently studying at Lovely Professional University<br>
+👀 I’m currently leveraging my skills 🐣<br>
+👀 I’m interested in Data Science!<br>
+🌱 I’m currently exploring new technologies and learning<br>
+💬 Connect with me siddhugarapati108@gmail.com 💡<br>
+
+<br clear="right"/>
 
 
 ## 🌐 Socials:
@@ -29,3 +31,4 @@
 [![](https://visitcount.itsvg.in/api?id=Siddhugarapati&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
