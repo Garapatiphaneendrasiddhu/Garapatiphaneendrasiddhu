@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me Siddhu Garapati:
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 👋 Hi, I’m Siddhu Garapati<br>
